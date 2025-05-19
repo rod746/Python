@@ -1,0 +1,5 @@
+#FAÇA UM PROGRAMA QUE LEIA ALGO PELO TECLADO E MOSTRE NA TELA O SEU TIPO PRIMITIVO E TODAS AS INFORMAÇÕESS POSSIVEIS SOBRE ELE.
+n1 = input("Say anything: ")
+
+print(n1)
+print('É numero? ', n1.isnumeric())
